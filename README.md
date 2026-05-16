@@ -13,7 +13,7 @@ users a P2 license in Entra ID.<br />
 attachments/assets/b56dd5be-9d99-455c-971b-87b868587458" /> 
 </p> 
 <p> 
-Assigned P2 license to user Chris Walker. 
+Assigned P2 license to user Denzel Washington. 
 </p> 
 <br /> 
 <p> 
@@ -21,6 +21,6 @@ Assigned P2 license to user Chris Walker.
 attachments/assets/39cc0299-8264-4329-abe8-4323398beba4" /> 
 </p> 
 <p> 
-Assigned P2 license to user Jordan Lee. 
+Assigned P2 license to user Daffy Duck. 
 </p> 
 <br /> 
