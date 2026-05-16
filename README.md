@@ -9,16 +9,16 @@ users a P2 license in Entra ID.<br />
 <h2>Operating Systems Used </h2> - Windows 11 
 <h2>Assigned Licenses</h2> 
 <p> 
-<img width="1404" height="709" alt="image" src="https://github.com/user
-attachments/assets/b56dd5be-9d99-455c-971b-87b868587458" /> 
+<img width="1408" height="666" alt="image" src="https://github.com/user-attachments/assets/75db741e-5b96-42f5-8a74-f0633e92b35d" />
+
 </p> 
 <p> 
 Assigned P2 license to user Denzel Washington. 
 </p> 
 <br /> 
 <p> 
-<img width="1441" height="735" alt="image" src="https://github.com/user
-attachments/assets/39cc0299-8264-4329-abe8-4323398beba4" /> 
+<img width="1434" height="727" alt="image" src="https://github.com/user-attachments/assets/34c7884c-77cb-41b6-8db3-3f074aae7d52" />
+
 </p> 
 <p> 
 Assigned P2 license to user Daffy Duck. 
